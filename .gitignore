@@ -1,0 +1,19 @@
+# Toggle?
+.env
+prisma/migrations
+
+# dependencies
+/node_modules
+npm-debug.log*
+
+# next.js
+/.next/
+/out/
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# misc
+.DS_Store
+*.pem
