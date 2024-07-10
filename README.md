@@ -30,7 +30,7 @@ Deployment: [base-link.vercel.app](https://base-link.vercel.app/)
 ## How to
 
 0. Setup an empty MySQL database and generate Google Auth credentials
-1. Screenshot all the code files, extract the texts from images with AI, paste them in your own files with correct extensions
+1. (optional skip) Screenshot all the code files, extract the texts from images with AI, paste them in your own files with correct extensions
 2. Download the dependencies: `npm ci`
 3. Generate database client: `npx prisma generate`
 4. Rename `.env.example` as `.env` and add your environment variables: DB URL, Google Credentials and [NEXTAUTH_SECRET](https://next-auth.js.org/configuration/options#nextauth_secret)
