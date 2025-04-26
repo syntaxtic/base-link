@@ -2,7 +2,7 @@
 
 Sample Next.js@14 project where users can create and publish profiles with their links.
 
-Deployment: [base-link.vercel.app](https://base-link.vercel.app/)
+~~Deployment: [base-link.vercel.app](https://base-link.vercel.app/)~~ (not active)
 
 ## Tech Stack
 
